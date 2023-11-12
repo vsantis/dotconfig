@@ -1,0 +1,18 @@
+require("victor.plugins-setup")
+require("victor.core.options")
+require("victor.core.keymaps")
+require("victor.core.colorscheme")
+
+-- plugins config files
+require("victor.plugins.catppuccin")
+require("victor.plugins.comment")
+require("victor.plugins.nvim-tree")
+require("victor.plugins.lualine")
+require("victor.plugins.telescope")
+require("victor.plugins.nvim-cmp")
+require("victor.plugins.lsp.mason")
+require("victor.plugins.lsp.lspsaga")
+require("victor.plugins.lsp.lspconfig")
+require("victor.plugins.lsp.null-ls")
+require("victor.plugins.autopairs")
+require("victor.plugins.treesitter")
