@@ -4,7 +4,7 @@ require("victor.core.keymaps")
 require("victor.core.colorscheme")
 
 -- plugins config files
-require("victor.plugins.catppuccin")
+--require("victor.plugins.catppuccin")
 require("victor.plugins.comment")
 require("victor.plugins.nvim-tree")
 require("victor.plugins.lualine")
