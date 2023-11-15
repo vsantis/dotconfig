@@ -6,6 +6,6 @@ end
 
 lualine.setup({
 	options = {
-		theme = "dracula",
+		theme = "gruvbox_dark",
 	},
 })
