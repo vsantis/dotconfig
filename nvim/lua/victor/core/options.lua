@@ -35,4 +35,7 @@ opt.clipboard:append("unnamedplus")
 opt.splitright = true
 opt.splitbelow = true
 
+-- turn off swapfile
+opt.swapfile = false
+
 opt.iskeyword:append("-")
